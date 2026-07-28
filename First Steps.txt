@@ -1,0 +1,16 @@
+
+Create a Repository
+1 Repositories/ New/ Name it/ Click "Create Repository"
+  Note: Make sure you check the "Initialize this repository with a README"
+  Note2: To rename a repository -> Access to teh repository/Settings (Menu top-right)
+ 
+
+Create a CodeSpace
+2  Access the repository/Create a CodeSpace/ 
+
+
+Create a Folder
+3 Access the repository/Add File/ Create New file / Name it : Snowflake-Practices/  
+  Note: You MUST add a slash /  at the end so this becomes a folder, after adding the slash put a name : Test-File  .This is an actual file you create inside that folder
+
+ Resource: https://www.youtube.com/watch?v=xmK1Q5uzH4w
